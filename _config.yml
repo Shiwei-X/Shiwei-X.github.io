@@ -22,7 +22,7 @@ repository               : "Shiwei-X/Shiwei-X.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  #avatar           : "profile.png"
   name             : "Shiwei-X"
   pronouns         : # example: "she/her"  
   bio              : "Everything is possible!"
